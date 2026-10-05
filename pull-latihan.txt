@@ -1,0 +1,2 @@
+Latihan Git Pull
+Perubahan ini dibuat dari repositori GitHub
