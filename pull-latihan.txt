@@ -1,2 +1,3 @@
 Latihan Git Pull
 Perubahan ini dibuat dari repositori GitHub
+Perubahan ini dibuat untuk memastikan repositori sinkron
